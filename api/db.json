@@ -1,0 +1,52 @@
+{
+  "datas": [
+    {
+      "id": 1,
+      "robotImg": "https://preview.colorlib.com/theme/robotics/img/p1.png.webp",
+      "robotName": "The Upper Eye",
+      "robotText": "Who are in extremely love with eco friendly system.",
+      "job": "Web",
+      "experience": "2 years"
+    },
+    {
+      "id": 2,
+      "robotImg": "https://preview.colorlib.com/theme/robotics/img/p2.png.webp",
+      "robotName": "The Crab Wheel",
+      "robotText": "Who are in extremely love with eco friendly system.",
+      "job": "UX",
+      "experience": "2 years"
+    },
+    {
+      "id": 3,
+      "robotImg": "https://preview.colorlib.com/theme/robotics/img/p3.png.webp",
+      "robotName": "The Plug Ninja",
+      "robotText": "Who are in extremely love with eco friendly system.",
+      "job": "Back-end",
+      "experience": "4 years"
+    },
+    {
+      "id": 4,
+      "robotImg": "https://preview.colorlib.com/theme/robotics/img/p3.png.webp",
+      "robotName": "The Controller",
+      "robotText": "Who are in extremely love with eco friendly system.",
+      "job": "Front-end",
+      "experience": "3 years"
+    },
+    {
+      "robotImg": "fgrg",
+      "robotName": "erge",
+      "robotText": "sefvws",
+      "job": "vsdv",
+      "experience": "dvv",
+      "id": 5
+    },
+    {
+      "robotImg": "Nulla excepteur nost",
+      "robotName": "Erin Wheeler",
+      "robotText": "Sed totam quasi nece",
+      "job": "Distinctio Recusand",
+      "experience": "Est aut id quis inv",
+      "id": 6
+    }
+  ]
+}
